@@ -1,12 +1,10 @@
 # AndroidQuantConnect
-Android (mobile) client for "Lean" a product of QuantConnect.com
 
-A native Android application that connects directly to "Lean", 
-a product of QuantConnect.com
+Android (mobile) client for QuantConnect.com REST API.
+
+
 
 # Requisites
-* Configure Lean account
-* Get balance
-* Turn on and off Quantitative trade on given strategy
+* Client will perform methods described on the REST API documentations https://www.quantconnect.com/docs/REST#6.0
 
 
